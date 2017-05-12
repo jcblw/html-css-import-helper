@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "extend": "^2.0.0",
-    "glob": "^5.0.5",
-    "handlebars": "^3.0.1"
+    "extend": "^3.0.1",
+    "glob": "^7.1.1",
+    "handlebars": "^4.0.8"
   },
   "devDependencies": {
-    "babel": "^5.0.12"
+    "babel": "^6.23.0"
   }
 }
