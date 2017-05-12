@@ -1,5 +1,7 @@
 # HTML CSS import Helper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/html-css-import-helper.svg)](https://greenkeeper.io/)
+
 > This is just an experiment.
 
 The idea behind this is to simply import css and html via a Handlebars Helper. Right now the api is very rough. Suggestions are welcome.
